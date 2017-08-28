@@ -2,3 +2,13 @@ body {
     font-family: sans-serif;
     background: purple;
 }
+
+.title {
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+#greeting {
+    font-style: italic;
+    text-shadow: 1px 2px 0px black;
+}
